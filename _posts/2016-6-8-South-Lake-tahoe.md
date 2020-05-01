@@ -7,9 +7,9 @@ South Lake Tahoe is a beautiful little city. I went down to the lake shore (whic
 So, a pretty good day all around! Tomorrow I will leave California for the deserts of Nevada. 
 
 
-![](/images/transam/tahoe1.jpg "")
-![](/images/transam/tahoe2.jpg "")
-![](/images/transam/tahoe3.jpg "")
-![](/images/transam/tahoe4.jpg "")
-![](/images/transam/tahoe5.jpg "")
-![](/images/transam/tahoe6.jpg "")
+![](/images/transam/tahoe1.jpg ".")
+![](/images/transam/tahoe2.jpg ".")
+![](/images/transam/tahoe3.jpg ".")
+![](/images/transam/tahoe4.jpg ".")
+![](/images/transam/tahoe5.jpg ".")
+![](/images/transam/tahoe6.jpg ".")
